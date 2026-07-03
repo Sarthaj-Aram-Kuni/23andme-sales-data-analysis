@@ -21,8 +21,6 @@ Visual inspection of the time-series data revealed a distinct discontinuity in s
 - **Event Date:** April 29, 2013
 - **Observation:** Daily sales volume shifted from a mean of **~504 units** to **~703 units**.
 
-![Sales Trend](images/sales_trend.png)
-*(Figure 1: Daily sales over 50 weeks showing the clear step-change in late April)*
 
 ### 2. Statistical Significance (A/B Testing)
 To confirm this was a fundamental shift rather than random volatility, an independent two-sample t-test was performed comparing daily sales before and after April 29th.
