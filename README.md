@@ -8,3 +8,8 @@ This project analyzes 50 weeks of timestamped sales data to identify trends, ano
 
 The primary objective was to investigate a sudden discontinuity in daily sales volume, determine its statistical significance, and assess if changing gender demographics were a contributing factor.
 
+## Repository Structure
+|File/Folder  | Description|
+|---------------|-------------------------------|
+
+
