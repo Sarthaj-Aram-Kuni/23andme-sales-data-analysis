@@ -34,4 +34,4 @@ To confirm this was a fundamental shift rather than random volatility, an indepe
 ### 3. Gender Demographics Analysis
 Investigated whether the sales spike was driven by a shift in the proportion of male vs. female customers.
 
--
+
