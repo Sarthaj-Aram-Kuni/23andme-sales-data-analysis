@@ -11,8 +11,8 @@ The primary objective was to investigate a sudden discontinuity in daily sales v
 ## Repository Structure
 |File/Folder  | Description|
 |---------------|-------------------------------|
-data| 50 csv files of datasets|
-23andme-sales-data-analysis| python code used for this project
+data| 50 csv files of datasets
+|23andme-sales-data-analysis| python code used for this project
 
 ## Key Findings
 
